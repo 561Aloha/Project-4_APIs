@@ -33,7 +33,21 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/v066gLy" data-context="false" ><a href="//imgur.com/a/v066gLy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/v066gLy" alt="Your Alt Text">
+or
+
+<div>
+    <a href="https://www.loom.com/share/0b5cbcebbdf346f28ddb2641d705076f">
+        <p>Library | Loom - 8 March 2024 - Watch Video</p>
+    </a>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0b5cbcebbdf346f28ddb2641d705076f-with-play.gif" alt="Your Alt Text">
+</div>
+
+
+https://github.com/561Aloha/Project-4_APIs/assets/112281080/50c05538-7942-420f-b93a-ffde767c2fc5
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
