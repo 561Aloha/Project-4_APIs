@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="position: relative; padding-bottom: 49.895833333333336%; height: 0;"><iframe src="https://www.loom.com/embed/0b5cbcebbdf346f28ddb2641d705076f?sid=9a8a2314-17cb-4df6-a853-eabcb504cd89" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+https://imgur.com/u6ZjEKL
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
