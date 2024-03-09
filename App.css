@@ -1,0 +1,98 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  grid-template-columns: 1fr;
+}
+
+.whole-page{
+  border: solid .5px;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.screenshot{
+  height: 600px;
+  border:solid .5px;
+  border-radius:10px;
+}
+
+
+.breed-info{
+  background-color: rgb(58, 94, 82);
+  padding: 30px;
+  border-radius: 10px;
+  display: inline-block;
+  align-items: center;
+  width: 80%;
+  margin:10px;
+
+}
+
+.clickable {
+  background-color: rgb(207, 180, 135);
+  border-radius: 10px;
+  margin: 10px; 
+  display: inline-block;
+  cursor: pointer;
+  color: rgb(0, 51, 21);
+  text-decoration: underline;
+  border: solid 0.5px;
+  padding: 10px;
+
+}
+
+.filter-container {
+  height: 100%;
+  background-color: #158585;
+  padding: 10px;
+  margin: 50px;
+}
+.remove{
+  margin:10px;
+  width: 100px;
+}
+
+.container{
+  border:solid 1px;
+  border-radius: 10px;
+  
+}
