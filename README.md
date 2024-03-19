@@ -33,8 +33,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/a/v066gLy" alt="Your Alt Text">
-or
 
 <div>
     <a href="https://www.loom.com/share/0b5cbcebbdf346f28ddb2641d705076f">
