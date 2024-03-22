@@ -33,12 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
 <div>
     <a href="https://www.loom.com/share/0b5cbcebbdf346f28ddb2641d705076f">
         <p>Library | Loom - 8 March 2024 - Watch Video</p>
     </a>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0b5cbcebbdf346f28ddb2641d705076f-with-play.gif" alt="Your Alt Text">
 </div>
 
 
